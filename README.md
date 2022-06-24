@@ -28,3 +28,5 @@ Entre em contato comigo!
     </a>
   <a href = "mailto:douglas060401@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/douglaseduar/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+      <a href="https://www.behance.net/douglaseduar" target="_blank"><img src="https://img.shields.io/badge/behance-053eff?style=for-the-badge&logo=behance&logoColor=white" target="_blank"></a> 
+          <a href="https://douglaseduar.github.io/portfolio/" target="_blank"><img src="https://img.shields.io/badge/portf%C3%B3lio-808080?style=for-the-badge&logo=AddThis&logoColor=w" target="_blank"></a> 
