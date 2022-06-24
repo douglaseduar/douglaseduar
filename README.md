@@ -1,4 +1,7 @@
-### Hi there 👋
+### falaa
+
+Como você ja deve ter visto meu nome é Douglas, tenho 21 anos e estou cursando Análise e Desenvolvimento de Software - TADS no IFPR.
+Nas horas vagas faço uns jogos aí =)
 
 <div align="center">
   <a href="https://github.com/douglaseduar">
@@ -6,11 +9,11 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglaseduar&layout=compact&langs_count=10&title_color=000000&text_color=000000&icon_color=000000"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="photoshop" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg">
   <img align="center" alt="vscode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
   <img align="center" alt="Nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
   <img align="center" alt="Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt="Unity" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg">
+  <img align="center" alt="photoshop" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg">
   <img align="right" alt="foto" height="150" style="border-radius:50px;" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/d50412110224931.5fe782f754e30.jpg">
 </div>
   
