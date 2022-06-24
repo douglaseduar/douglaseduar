@@ -16,8 +16,6 @@ Entre em contato comigo!
   <img align="center" alt="Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt="Unity" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg">
   <img align="center" alt="photoshop" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg">
-  <img align="right" alt="foto" height="150" style="border-radius:50px;" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/d50412110224931.5fe782f754e30.jpg">
-</div>
   
   ##
   
