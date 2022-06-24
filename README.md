@@ -10,7 +10,7 @@ Entre em contato comigo!
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=douglaseduar&show_icons=true&include_all_commits=true&count_private=true&custom_title=douglaseduar%27s%20GitHub%20Stats&title_color=000000&text_color=000000&icon_color=000000"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglaseduar&layout=compact&langs_count=10&title_color=000000&text_color=000000&icon_color=000000"/>
 </div>
-<div style="display: inline_block"><br>
+<div style="display: inline_block" align="center"><br>
   <img align="center" alt="vscode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
   <img align="center" alt="Nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
   <img align="center" alt="Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
@@ -19,7 +19,7 @@ Entre em contato comigo!
   
   ##
   
-  <div> 
+  <div align="center"> 
   <a href="https://instagram.com/douglaseduar" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     <a target='_blank' href="https://twitter.com/douglaseduar">
         <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
@@ -28,3 +28,4 @@ Entre em contato comigo!
   <a href="https://www.linkedin.com/in/douglaseduar/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
       <a href="https://www.behance.net/douglaseduar" target="_blank"><img src="https://img.shields.io/badge/behance-053eff?style=for-the-badge&logo=behance&logoColor=white" target="_blank"></a> 
           <a href="https://douglaseduar.github.io/portfolio/" target="_blank"><img src="https://img.shields.io/badge/portf%C3%B3lio-808080?style=for-the-badge&logo=AddThis&logoColor=white" target="_blank"></a> 
+  </div>
