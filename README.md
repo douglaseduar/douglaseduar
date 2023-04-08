@@ -1,6 +1,6 @@
 ### faaala
 
-Como você ja deve ter visto meu nome é Douglas, tenho 21 anos e estou cursando Tecnólogo em Análise e Desenvolvimento de Software - TADS no Instituto Federal do Paraná.<br>
+Como você ja deve ter visto meu nome é Douglas, tenho 22 anos e sou formado em Análise e Desenvolvimento de Software - TADS no Instituto Federal do Paraná.<br>
 Nas horas vagas faço uns jogos e uns sites aí =)
 
 Entre em contato comigo!
